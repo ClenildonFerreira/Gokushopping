@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GO69WMlHs/8D9nMM0ZWDDFpwLrKnZCR/vSmPUmnm2JLBAT/nEszMR5rzA4uWpDR8PdVZm4zJ0yr5TALwBA37fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clenildon_ferreira\\Desktop\\Project\\microservices\\GokuShopping\\GukuShopping.ProductAPI\\GukuShopping.ProductAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clenildon_ferreira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\clenildon_ferreira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\clenildon_ferreira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\clenildon_ferreira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\clenildon_ferreira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\clenildon_ferreira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
